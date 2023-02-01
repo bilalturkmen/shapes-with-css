@@ -1,4 +1,4 @@
-# Separate Sections Some Shapes With Css
+# Separate Sections With Css Shapes
 I used some angles, shapes and waves between sections of a web page via css
 
 Demo: https://bilalturkmen.github.io/shapes-with-css/
