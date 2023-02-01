@@ -44,9 +44,8 @@ section {
 
 .diagonal {
   /* define css variables for this section */
-  --skew-angle: -5deg;
-  --background: linear-gradient(45deg, #12c2e9, #c471ed, #f64f59);
-
+  --skew-angle: -3deg;
+  --background: linear-gradient(43deg, #4158d0 0%, #c850c0 46%, #ffcc70 100%);
   position: relative;
   isolation: isolate;
 }
@@ -70,7 +69,7 @@ section {
 
   position: relative;
   color: black;
-  background: linear-gradient(to right, #fdc830, #f37335);
+  background: linear-gradient(62deg, #fbab7e 0%, #f7ce68 100%);
 }
 
 .spikes::before,
@@ -107,7 +106,7 @@ section {
     radial-gradient(50.39px at 50% calc(100% + 43.75px), #0000 99%, #000 101%)
       50% calc(100% - 25px) / 100px calc(51% - 25px) repeat-x;
 
-  background: linear-gradient(to right, #00f260, #0575e6);
+  background: linear-gradient(0deg, #08aeea 0%, #2af598 100%);
   -webkit-mask: var(--mask);
   mask: var(--mask);
 }
